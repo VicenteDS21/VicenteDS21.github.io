@@ -8,15 +8,30 @@ a:focus, a:hover{
     color:orangered;
 }
 header h1{
-    font: size 175%;
+    font-size: 175%;
     color: maroon;
-    text-indent: 30 px;
+    text-indent: 30px;
 }
 header h2{
     font-size: 130%;
     color: #800000;
-    text-indent: 30 px;
+    text-indent: 30px;
 }
 img {
-float: right;
+float: left;
+}
+shadow{
+    text-shadow: 2px 2px 2px rgb(128,0,0)
+}
+clear:left
+h3{
+    margin-top: 3em;
+    font-size: 105%;
+}
+list{
+    line-height: 1.5em;
+}
+footer{
+    text-align: center;
+    font-size: 80%;
 }
