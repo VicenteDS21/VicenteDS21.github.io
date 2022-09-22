@@ -1,8 +1,18 @@
-
+html{
+    background-image:linear-gradient(to bottom, white 0%, #facd8a 100%);
+}
 body {
     font-family :Arial, Helvetica, sans-serif;
     font-size : 100%;
-    margin-left : 10px;
+    width: 1000px;
+    background-color:White;
+
+    margin: 15px auto;
+    padding: 15px 1.5em;
+    border: 1px solid black;
+    border-radius: 25px;
+    box-shadow: 5px 5px 0 0;
+
 }
 
 a:focus, a:hover{
@@ -23,11 +33,15 @@ header h2{
 }
 
 main h3{
-    margin-top:3em;
     font-size: 105%;
+    margin: 3em 2em 1.5em;
+}
+main nav{
+    font: size 105%;
+    margin: 1.5em 2em 1.5em;
 }
 
-img {
+header img {
 float: left;
 }
 
