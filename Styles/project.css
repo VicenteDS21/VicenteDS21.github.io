@@ -92,7 +92,15 @@ footer p.copyright{
     font-size: 80%;
 }
 
-aside
+p.fixed{
+    width: auto;
+    position: fixed;
+    bottom: 35%;
+    right: 0;
+    border: 3px solid darkgreen;
+    background-color: lightgreen;
+}
+
 
 #list{
     line-height: 1.5em;
