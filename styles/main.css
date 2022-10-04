@@ -49,9 +49,7 @@ main nav{
     box-shadow: 3px 3px 4px 4px red;
     padding: 1em;
 
-
     font: size 105%;
-    margin: 1.5em 2em 1.5em;
 }
 
 #list{
@@ -67,7 +65,7 @@ div.contact{
 }
 
 header img {
-    float: right;
+    float: left;
 }
 
 main{
