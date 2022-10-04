@@ -64,8 +64,8 @@ div.contact{
     padding: 1em;
 }
 
-header img {
-    float: left;
+img {
+    margin: left;
 }
 
 main{
