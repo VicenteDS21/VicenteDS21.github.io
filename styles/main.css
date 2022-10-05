@@ -65,7 +65,7 @@ div.contact{
 }
 
 img {
-    margin: left;
+    float: left;
     margin: 2em;
 }
 
