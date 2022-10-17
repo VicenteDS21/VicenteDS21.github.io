@@ -85,6 +85,15 @@ aside{
     padding: 0.1em 1em 1em;
     background-color: #ffebc6;
 }
+p.fixed{
+    width: auto;
+    position: fixed;
+    bottom: 35%;
+    right: 0;
+    border: 3px solid darkgreen;
+    background-color: lightgreen;
+    padding: 1em;
+}
 
 footer{
     clear: both;
@@ -94,16 +103,6 @@ footer{
 footer p.copyright{
     text-align: center;
     font-size: 80%;
-}
-
-p.fixed{
-    width: auto;
-    position: fixed;
-    bottom: 35%;
-    right: 0;
-    border: 3px solid darkgreen;
-    background-color: lightgreen;
-    padding: 1em;
 }
 
 
