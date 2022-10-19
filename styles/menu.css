@@ -20,6 +20,11 @@ aside ol{
 aside ul{
     list-style-type: square;
 }
+
  article p{
-    float: left;
+    float: center;
  }
+
+h1{
+    float: right;
+}
