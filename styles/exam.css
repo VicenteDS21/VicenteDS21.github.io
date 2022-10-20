@@ -13,10 +13,20 @@
 #nav_menu ul li a.lastitem { border-right: none; }	
 #nav_menu ul li a.current { color: yellow; }
 
+article{
+    clear: both;
+}
+
+#intr #Back{
+    float: left;
+    width: 240;
+}
+
+
+
 
 
 aside{
-    clear: both;
     width: 20%;
     float: right;
     padding: 0.1em 1em 1em;
