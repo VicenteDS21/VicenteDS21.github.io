@@ -17,11 +17,21 @@ article{
     clear: both;
 }
 
-#intr #intro{
+#intr #intro #back #backg{
     float: left;
     width: 240;
 }
 
+#Met #Methd #Anl #Anly{
+    float: left;
+    width: 240;
+}
+
+#Res #Resu #Dis #Disc{
+    float: left;
+    width: 240;
+
+}
 
 
 
