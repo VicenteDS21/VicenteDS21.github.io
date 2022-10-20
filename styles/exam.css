@@ -17,10 +17,15 @@ article{
     clear: both;
 }
 
-#intr {
+#intr #intro{
     float: left;
     width: 240;
 }
+
+
+
+
+
 
 img{
     clear: both;
