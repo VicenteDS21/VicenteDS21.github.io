@@ -6,7 +6,7 @@ padding-bottom: 1%;}
 #nav_menu ul li a {
     text-align: center;
     display: block;
-    width: 75%;
+    width: 175px;
     padding: 1em 0;
     text-decoration: none;
     background-color: blue;
@@ -27,14 +27,8 @@ article{
     padding-right: 23%;
 }
 
-
-
-
-
-
 article p ::first-letter{
     font-size: larger;
-
     font: italic bold;
 }
 
