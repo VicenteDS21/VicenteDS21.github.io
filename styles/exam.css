@@ -26,8 +26,7 @@ article{
     float: left;
     padding-right: 23%;
 }
-
-#intro p ::first-letter{
+p::first-letter{
     font-size: larger;
 
     font: italic bold;
