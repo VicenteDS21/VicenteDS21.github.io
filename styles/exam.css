@@ -25,20 +25,12 @@ article{
     column-rule: dashed blue;
 }
 
-
-
-
-
-
-
-
 img{
     clear: both;
 }
 
-
-
 aside{
+    column-count: 1;
     width: 20%;
     float: right;
     padding: 0.1em 1em 1em;
