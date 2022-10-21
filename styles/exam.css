@@ -15,14 +15,21 @@
 
 article{
     clear: both;
+    column-count: 4;
 }
 
-.intr .intro .back .backg{
+
+
+
+
+
+
+#intr #intro #back #backg{
     float: left;
     width: 240px;
 }
 
-.Met .Methd .Anl #Anly{
+#Met #Methd #Anl #Anly{
     float: left;
     width: 240px;
 }
