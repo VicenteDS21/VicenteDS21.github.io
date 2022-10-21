@@ -19,12 +19,11 @@ header{
 
 article{
     clear: both;
-    column-count: 4;
+    column-count: 3;
     border-top: solid blue;
     border-bottom:solid blue;
     column-rule: dashed blue;
     float: left;
-    column-span: 3;
 }
 
 
@@ -33,7 +32,7 @@ img{
 }
 
 aside{
-    column-span: 1;
+    column-count: 1;
     width: 20%;
     float: right;
     padding: 20px;
