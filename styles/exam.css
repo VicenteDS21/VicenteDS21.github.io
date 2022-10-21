@@ -14,13 +14,13 @@
 #nav_menu ul li a.current { color: yellow; }
 
 header{
-    border: solid blue;
-    border-bottom: solid blue;
+
 }
 
 article{
     clear: both;
     column-count: 3;
+    border: solid blue;
     column-rule: dashed blue;
 }
 
