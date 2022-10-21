@@ -27,7 +27,7 @@ article{
     padding-right: 23%;
 }
 p::first-letter{
-    font-size: larger;
+    font-size: large;
     font-weight: bold;
     font-style: italic;
 }
