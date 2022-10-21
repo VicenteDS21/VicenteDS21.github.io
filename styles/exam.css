@@ -24,8 +24,9 @@ article{
     border-bottom:solid blue;
     column-rule: dotted blue;
     float: left;
-    padding-right: 23%;
+
     padding-top: 1%;
+    padding-right: 23%;
 }
 p::first-letter{
     font-size: large;
