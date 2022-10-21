@@ -29,6 +29,7 @@ article{
 
 p ::first-letter{
     font-size: larger;
+    
     font: italic bold;
 }
 
