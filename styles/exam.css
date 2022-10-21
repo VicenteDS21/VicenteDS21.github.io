@@ -56,5 +56,9 @@ aside{
     float: right;
     padding: 0.1em 1em 1em;
     background-color: #ffebc6;
+    position: fixed;
+    right: 0;
+    top: 170px;
+
 }
 
