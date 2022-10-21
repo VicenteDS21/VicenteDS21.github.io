@@ -13,6 +13,10 @@
 #nav_menu ul li a.lastitem { border-right: none; }	
 #nav_menu ul li a.current { color: yellow; }
 
+header{
+    border-bottom: solid blue;
+}
+
 article{
     clear: both;
     column-count: 3;
