@@ -19,7 +19,7 @@ article{
     column-count: 3;
     border-top: solid blue;
     border-bottom:solid blue;
-    column-rule: dashed blue;
+    column-rule: dotted blue;
     float: left;
     padding-right: 25%;
 }
