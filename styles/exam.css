@@ -1,6 +1,6 @@
 #nav_menu ul { list-style-type: none; }
 #nav_menu ul li { float: left; 
-padding-bottom: 3%;}
+padding-bottom: 1%;}
 
 
 #nav_menu ul li a {
@@ -45,5 +45,6 @@ aside{
 
 footer{
     clear: both;
+    text-align: center;
 }
 
