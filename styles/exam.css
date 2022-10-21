@@ -19,15 +19,12 @@ header{
 
 article{
     clear: both;
-    column-count: 3;
+    column-count: 4;
     border-top: solid blue;
     border-bottom:solid blue;
     column-rule: dashed blue;
     float: left;
-}
-
-article h2{
-    column-span: 1;
+    column-span: 3;
 }
 
 
@@ -36,12 +33,12 @@ img{
 }
 
 aside{
-    column-count: 1;
+    column-span: 1;
     width: 20%;
     float: right;
     padding: 20px;
     background-color: lightblue;
-    position: absolute;
+    position: fixed;
     right: 0;
     top: 170px;
     border: solid black;
