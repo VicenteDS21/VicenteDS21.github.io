@@ -28,8 +28,8 @@ article{
 }
 p::first-letter{
     font-size: larger;
-
-    font: italic bold;
+    font-weight: bold;
+    font-style: italic;
 }
 
 img{
