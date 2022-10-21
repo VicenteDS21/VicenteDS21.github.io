@@ -16,16 +16,12 @@
 
 article{
     clear: both;
-    
+    column-count: 3;
     border-top: solid blue;
     border-bottom:solid blue;
     column-rule: dashed blue;
     float: left;
-}
-
-#intr h1 #intro p article image{
-    column-count: 1;
-    width: 240px;
+    padding-right: 20%;
 }
 
 
