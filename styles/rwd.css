@@ -11,7 +11,6 @@ box-sizing: border-box;
 
 
 
-
 .top-nav {
 display: flex;
 flex-direction: row;
@@ -89,6 +88,14 @@ transform: rotate(-405deg);
 }
     /*----end of menu*/
 
+
+
+
+
+
+
+
+
 section a{
 text-decoration: none;
 color: white;
@@ -128,6 +135,7 @@ font-size: .8em;
 
 
 @media only screen and (max-width: 700px)
+{
 
 .menu-button-container {
 display: flex;
@@ -178,4 +186,5 @@ footer{
 border-top: 1px solid #f46b45;
 text-align: center;
 font-size: .6em;
+}
 }
