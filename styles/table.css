@@ -34,7 +34,8 @@ table.second th, table.second td {
 table.second thead tr:first-child{     
     border-bottom: 2px solid purple;
 }
-table.third thead {
+/*----------------------------------------------------------*/
+table.third tr {
     border-collapse: separate;
     border-top: solid red;
     border-bottom: solid red;
