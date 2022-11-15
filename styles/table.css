@@ -35,6 +35,7 @@ table.second thead tr:first-child{
     border-bottom: 2px solid purple;
 }
 table.third thead {
+    border-collapse: separate;
     border-top: solid red;
     border-bottom: solid red;
     font-weight: bold;
