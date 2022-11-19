@@ -35,6 +35,6 @@ table.second thead tr:first-child{
     border-bottom: 2px solid purple;
 }
 /*------------------------------------------------3----------*/
-table.third tr {
+table.third thead {
     font-weight: bold;
 }
