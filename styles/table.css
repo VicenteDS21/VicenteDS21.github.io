@@ -40,3 +40,6 @@ table.third thead {
     font-weight: bold;
     background-color: lightgreen;
 }
+table.third tr {
+    background-color: lightgreen;
+}
