@@ -6,7 +6,7 @@ font-size: 100%;
 * {
 font-family: Verdana, Arial, Helvetica, sans-serif;
 }
-/*-----------------------------------------------------------*/
+/*-------------------------------------------------1----------*/
 table.first {
     border-collapse: separate;
     border: 2px solid black;    
@@ -17,7 +17,7 @@ table.first th, table.first td {
 table.first tr:nth-child(odd) {
     background-color: lightblue;
 }
-/*-----------------------------------------------------------*/
+/*-------------------------------------------------2----------*/
 table.second {    
     border-collapse: collapse; 
     border: 2px solid purple;   
@@ -34,10 +34,7 @@ table.second th, table.second td {
 table.second thead tr:first-child{     
     border-bottom: 2px solid purple;
 }
-/*----------------------------------------------------------*/
+/*------------------------------------------------3----------*/
 table.third tr {
-    border-collapse: separate;
-    border-top: solid red;
-    border-bottom: solid red;
     font-weight: bold;
 }
