@@ -41,6 +41,7 @@ table.third thead {
     background-color: lightgreen;
 }
 table.third thead tr{
+    background-color: lightgreen;
     border-top: 1px solid red;
     border-bottom: 1px solid red;
 }
