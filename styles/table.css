@@ -35,14 +35,15 @@ table.second thead tr:first-child{
     border-bottom: 2px solid purple;
 }
 /*------------------------------------------------3----------*/
+
+table.third thead tr :first-child(1) {
+    text-align: center;
+    background-color: green;
+}
 table.third thead {
     border-collapse: collapse;
     border: none;
     text-align: center;
     font-weight: bold;
     background-color: lightgreen;
-}
-table.third thead tr :first-child {
-    text-align: center;
-    background-color: green;
 }
