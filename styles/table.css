@@ -36,6 +36,7 @@ table.second thead tr:first-child{
 }
 /*------------------------------------------------3----------*/
 table.third thead {
+    border-collapse: collapse;
     text-align: center;
     font-weight: bold;
     background-color: lightgreen;
