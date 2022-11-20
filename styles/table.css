@@ -42,6 +42,7 @@ table.third thead {
     font-weight: bold;
     background-color: lightgreen;
 }
-table.third .tbl{
-background-color: lightgreen;
+th :first-child {
+    text-align: center;
+    background-color: lightgreen;
 }
