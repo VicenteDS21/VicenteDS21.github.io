@@ -36,7 +36,7 @@ table.second thead tr:first-child{
 }
 /*------------------------------------------------3----------*/
 
-table.third th tr :first-child(1) {
+table.third th tr :first-child {
     text-align: center;
     background-color: green;
 }
