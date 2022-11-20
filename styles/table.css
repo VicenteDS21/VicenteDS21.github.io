@@ -42,7 +42,7 @@ table.third thead {
     font-weight: bold;
     background-color: lightgreen;
 }
-table.third tr :first-child {
+table.third thead tr :first-child {
     text-align: center;
-    background-color: lightgreen;
+    background-color: green;
 }
