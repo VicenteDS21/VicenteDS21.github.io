@@ -41,8 +41,4 @@ table.third thead {
     font-weight: bold;
     background-color: lightgreen;
 }
-table.third thead {
-    background-color: lightgreen;
-    border-top: 1px solid red;
-    border-bottom: 1px solid red;
-}
+
