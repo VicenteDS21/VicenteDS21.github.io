@@ -47,7 +47,8 @@ table.third thead tr {
     text-align: center;
     font-weight: bold;
 }
-table.third thead tr th{
+
+table.third thead tr th {
     background-color: lightgreen;
 }
 
