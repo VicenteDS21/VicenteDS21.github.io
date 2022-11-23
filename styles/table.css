@@ -41,9 +41,10 @@ table.third caption {
     background-color: lightgreen;
 }
 table.third thead {
+    background-color: lightgreen;
     border-collapse: collapse;
     border: none;
     text-align: center;
     font-weight: bold;
-    background-color: lightgreen;
+    
 }
