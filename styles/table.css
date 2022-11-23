@@ -42,7 +42,7 @@ table.third caption {
 }
 
 table.third tr, :first-child{
-    background-color: lightgreen;
+    background-color: green;
     border-collapse: collapse;
     border: none;
     text-align: center;
@@ -57,3 +57,4 @@ table.third tr, :first-child{
     font-weight: bold;
     
 }
+*/
