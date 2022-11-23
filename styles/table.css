@@ -40,7 +40,16 @@ table.third caption {
     text-align: center;
     background-color: lightgreen;
 }
-table.third thead {
+
+table.third tr, :first-child{
+    background-color: lightgreen;
+    border-collapse: collapse;
+    border: none;
+    text-align: center;
+    font-weight: bold;
+}
+
+/*table.third thead {
     background-color: lightgreen;
     border-collapse: collapse;
     border: none;
