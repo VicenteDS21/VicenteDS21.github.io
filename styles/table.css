@@ -36,11 +36,11 @@ table.second thead tr:first-child{
 }
 /*------------------------------------------------3----------*/
 
-table.third tr :first-child {
+table.third thead tr :first-child {
     text-align: center;
     background-color: green;
 }
-table.third thead {
+/*table.third thead {
     border-collapse: collapse;
     border: none;
     text-align: center;
