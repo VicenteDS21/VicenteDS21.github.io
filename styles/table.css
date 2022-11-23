@@ -42,11 +42,13 @@ table.third caption {
 }
 
 table.third thead tr {
-    background-color: green;
     border-collapse: collapse;
     border: none;
     text-align: center;
     font-weight: bold;
+}
+table.third thead tr th{
+    background-color: lightgreen;
 }
 
 /*table.third thead {
