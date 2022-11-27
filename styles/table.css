@@ -44,7 +44,7 @@ table.third caption {
     border-bottom: 2px solid red;
 }
 
-table.third thead.body3 {
+tbody.body3 {
     text-align: center;
     font-weight: bold;
     background-color: lightgreen;
