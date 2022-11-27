@@ -43,32 +43,19 @@ table.third caption {
     text-align: center;
     font-weight: bold;
     background-color: lightgreen;
-    border-top: 2px solid red;
-    border-bottom: 2px solid red;
+    border-top: 2px solid orangered;
+    border-bottom: 2px solid orangered;
 }
 
 tr.head3 th {
     border-collapse: collapse;
     background-color: lightgreen;
-    border-bottom: 2px solid red;
+    border-bottom: 2px solid orangered;
 }
-
-
-
 
 tbody.body3 {
-
+vertical-align: text-top;
 }
 tr.border_bottom td{
-    border-collapse: collapse;
-    border-bottom: 2px solid red;
+    border-bottom: 2px solid orangered;
 }
-/*table.third thead {
-    background-color: lightgreen;
-    border-collapse: collapse;
-    border: none;
-    text-align: center;
-
-    
-}
-*/
