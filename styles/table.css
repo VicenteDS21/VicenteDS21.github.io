@@ -45,8 +45,9 @@ table.third caption {
 }
 
 tr.head3 th {
-background-color: lightgreen;
-border-bottom: 2px solid red;
+    border-collapse: collapse;
+    background-color: lightgreen;
+    border-bottom: 2px solid red;
 }
 
 
