@@ -47,7 +47,7 @@ table.third caption {
     border-bottom: 2px solid orangered;
 }
 
-table.third tr:first-child {
+table.third thead tr:first-child {
     border-collapse: collapse;
     background-color: lightgreen;
     border-bottom: 2px solid orangered;
