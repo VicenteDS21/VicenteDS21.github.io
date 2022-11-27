@@ -45,14 +45,14 @@ table.third caption {
     background-color: lightgreen;
     border-top: 2px solid orangered;
     border-bottom: 2px solid orangered;
-    padding: 1em;
+    padding: .5em;
 }
 
 tr.head3 th {
     border-collapse: collapse;
     background-color: lightgreen;
     border-bottom: 2px solid orangered;
-    padding: 1em;
+    padding: .5em;
 }
 
 tbody.body3 {
