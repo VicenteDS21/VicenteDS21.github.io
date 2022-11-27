@@ -52,6 +52,7 @@ tr.head3 th {
     border-collapse: collapse;
     background-color: lightgreen;
     border-bottom: 2px solid orangered;
+    padding: 1em;
 }
 
 tbody.body3 {
