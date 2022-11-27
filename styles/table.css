@@ -47,19 +47,12 @@ table.third caption {
     border-bottom: 2px solid orangered;
 }
 
-table.third thead th:first-child {
+tr.head3 th {
     border-collapse: collapse;
     background-color: lightgreen;
     border-bottom: 2px solid orangered;
 }
 
-/*
-r.head3 th {
-    border-collapse: collapse;
-    background-color: lightgreen;
-    border-bottom: 2px solid orangered;
-}
-*/
 
 tbody.body3 {
 vertical-align: text-top;
