@@ -35,6 +35,9 @@ table.second thead tr:first-child{
     border-bottom: 2px solid purple;
 }
 /*------------------------------------------------3----------*/ 
+table.third {
+    border-collapse: collapse;
+}
 
 table.third caption {
     text-align: center;
