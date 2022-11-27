@@ -47,7 +47,6 @@ table.third caption {
 tbody.body3 {
     text-align: center;
     font-weight: bold;
-    background-color: lightgreen;
     border-top: 2px solid red;
     border-bottom: 2px solid red;
 }
