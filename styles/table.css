@@ -55,7 +55,7 @@ tr.head3 th {
     padding: .5em;
 }
 
-table.third tbody {
+table.third .body3 {
 vertical-align: text-top;
 padding: 2em;
 }
