@@ -48,7 +48,7 @@ tbody.body3 {
     border-top: 2px solid red;
     border-bottom: 2px solid red;
 }
-tr.border_bottom td {
+tr.border_bottom {
     border-bottom: 2px solid red;
 }
 /*table.third thead {
