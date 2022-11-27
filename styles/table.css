@@ -44,21 +44,17 @@ table.third caption {
     border-bottom: 2px solid red;
 }
 
-
-
-table.third thead {
-    text-align: center;
-    font-weight: bold;
-    background-color: green;
-    border-bottom: 2px solid red;
-}
-
 table.third tbody {
     border-bottom: 2px solid red;
 }
 
-
-
+table.third .body {
+    text-align: center;
+    font-weight: bold;
+    background-color: lightgreen;
+    border-top: 2px solid red;
+    border-bottom: 2px solid red;
+}
 
 /*table.third thead {
     background-color: lightgreen;
