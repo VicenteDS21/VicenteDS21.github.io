@@ -40,9 +40,7 @@ table.third caption {
     text-align: center;
     background-color: lightgreen;
 }
-
 table.third thead tr {
-
     border: none;
     text-align: center;
     font-weight: bold;
@@ -51,6 +49,13 @@ table.third thead tr {
 table.third thead tr th {
     background-color: lightgreen;
 }
+
+table.third tbody {
+    border-bottom: 2px solid red;
+}
+
+
+
 
 /*table.third thead {
     background-color: lightgreen;
