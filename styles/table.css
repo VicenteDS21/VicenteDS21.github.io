@@ -45,6 +45,7 @@ table.third caption {
     background-color: lightgreen;
     border-top: 2px solid orangered;
     border-bottom: 2px solid orangered;
+    padding: 5em;
 }
 
 tr.head3 th {
@@ -53,10 +54,10 @@ tr.head3 th {
     border-bottom: 2px solid orangered;
 }
 
-
 tbody.body3 {
 vertical-align: text-top;
 }
+
 tr.border_bottom td{
     border-bottom: 2px solid orangered;
 }
