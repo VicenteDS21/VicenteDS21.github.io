@@ -38,6 +38,7 @@ table.second thead tr:first-child{
 
 table.third caption {
     text-align: center;
+    font-weight: bold;
     background-color: lightgreen;
 }
 table.third thead tr {
