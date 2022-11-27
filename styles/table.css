@@ -44,9 +44,15 @@ table.third caption {
     border-bottom: 2px solid red;
 }
 
+thead.head3 th {
+background-color: green;
+}
+
+
+
+
 tbody.body3 {
-    border-top: 2px solid red;
-    border-bottom: 2px solid red;
+
 }
 tr.border_bottom td{
     border-collapse: collapse;
