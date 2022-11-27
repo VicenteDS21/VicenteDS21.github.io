@@ -57,6 +57,7 @@ tr.head3 th {
 
 tbody.body3 {
 vertical-align: text-top;
+padding: .5em;
 }
 
 tr.border_bottom td{
