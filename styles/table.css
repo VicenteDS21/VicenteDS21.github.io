@@ -41,10 +41,13 @@ table.third caption {
     font-weight: bold;
     background-color: lightgreen;
     border-top: 2px solid red;
+    border-bottom: 2px solid red;
 }
-table.third thead tr {
+table.third thead {
     text-align: center;
     font-weight: bold;
+    background-color: green;
+    border-bottom: 2px solid red;
 }
 
 table.third tbody {
