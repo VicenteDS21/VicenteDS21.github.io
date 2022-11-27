@@ -44,7 +44,7 @@ table.third caption {
     border-bottom: 2px solid red;
 }
 
-table.third caption.head3 {
+caption.head3 th {
 background-color: lightgreen;
 border-bottom: 2px solid red;
 }
