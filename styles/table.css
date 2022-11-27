@@ -34,16 +34,16 @@ table.second th, table.second td {
 table.second thead tr:first-child{     
     border-bottom: 2px solid purple;
 }
-/*------------------------------------------------3----------*/
+/*------------------------------------------------3----------*/ 
 
-
-table.third body {
+table.third caption {
     text-align: center;
     font-weight: bold;
     background-color: lightgreen;
     border-top: 2px solid red;
     border-bottom: 2px solid red;
 }
+
 
 
 table.third thead {
