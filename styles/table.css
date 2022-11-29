@@ -63,3 +63,6 @@ padding: 2em;
 tr.border_bottom td{
     border-bottom: 2px solid orangered;
 }
+ table.third tbody {
+    padding: .5em;
+ }
