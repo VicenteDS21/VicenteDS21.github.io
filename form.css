@@ -34,7 +34,7 @@ input:invalid {
 br {
     clear: both;
 }
-textarea {
+#textarea {
     height: 5em;
     width: 35em;
 }
