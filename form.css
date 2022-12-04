@@ -38,6 +38,6 @@ br {
     height: 5em;
     width: 35em;
 }
-.button input {
+button input {
     width: 10em;
 }
