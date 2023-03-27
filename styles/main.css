@@ -11,6 +11,25 @@ html,body {
     
     
     
+
+
+
+
+    .line {
+        font-size: 1.2em;
+        font-weight: bold;
+        color: #FFF;
+        text-shadow: 1px 1px #333;
+        margin-bottom: 1em;
+      }
+
+
+
+
+
+
+
+
     .top-nav {
     display: flex;
     flex-direction: row;
