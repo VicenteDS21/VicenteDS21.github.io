@@ -214,12 +214,3 @@ font-size: .6em;
 
 /* original code above*/
 
-.light-theme {
-  background-color: #FFFFFF;
-  color: #000000;
-}
-
-.dark-theme {
-  background-color: #000000;
-  color: #FFFFFF;
-}
