@@ -68,7 +68,7 @@ body {
 
 
 
-/* original starts under here
+/* original starts under here*/
 
 html,body {
 margin:0;
@@ -81,10 +81,6 @@ font-family: Verdana, Arial, Helvetica, sans-serif;
 box-sizing: border-box;
 }
 
-
-
-
-
 .line {
     font-size: 1.2em;
     font-weight: bold;
@@ -92,14 +88,6 @@ box-sizing: border-box;
     text-shadow: 1px 1px #333;
     margin-bottom: 1em;
   }
-
-  
-  
-  
-
-
-
-
 
 .top-nav {
 display: flex;
