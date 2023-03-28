@@ -140,8 +140,8 @@ font-size: 1em;
 article img{
 margin: auto;
 display: block;
-width: 100%;
-max-width: 760px;
+width: 50%;
+max-width: 380px;
 }
 
 footer{
