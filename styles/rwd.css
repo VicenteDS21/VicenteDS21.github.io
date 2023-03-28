@@ -2,7 +2,9 @@
 
 
 
-
+body {
+    background-color: #F5F5F5;
+  }
 
 
 
@@ -207,11 +209,3 @@ font-size: .6em;
 }
 }
 
-
-
-
-
-
-body {
-    background-color: #F5F5F5;
-  }
