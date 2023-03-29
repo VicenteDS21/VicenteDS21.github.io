@@ -115,7 +115,7 @@ transform: rotate(-405deg);
 
 section a{
 text-decoration: none;
-color: lightgray;
+color: white;
 }
 .menu a:hover,
 a.current
