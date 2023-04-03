@@ -13,11 +13,12 @@ body{
 
 
 article h2 {
-  display: inline-block;
   background: linear-gradient(to left, #7a7774, #3f10e8);
-  padding: 5px 10px;
   color: white;
+  display: inline-block;
   border-radius: 10px;
+  padding: 0.2em 0.5em;
+  margin-bottom: 1em;
 }
 
 /* original starts under here*/
