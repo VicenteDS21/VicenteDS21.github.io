@@ -11,6 +11,16 @@ body{
 
 
 
+
+article h2 {
+  background-color: #3f10e8;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+
+
 /* original starts under here*/
 
 html,body {
