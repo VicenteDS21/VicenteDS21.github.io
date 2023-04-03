@@ -9,17 +9,17 @@ body{
 }
 
 
-
-
-
 article h2 {
-  background: linear-gradient(to left, #7a7774, #3f10e8);
-  color: white;
   display: inline-block;
+  padding: 5px 10px;
+  margin: 20px 0;
   border-radius: 10px;
-  padding: 0.2em 0.5em;
-  margin-bottom: 1em;
+  background: linear-gradient(to left, #3f10e8, #7a7774);
+  color: #fff;
 }
+
+
+
 
 /* original starts under here*/
 
