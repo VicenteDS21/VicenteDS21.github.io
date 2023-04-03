@@ -55,6 +55,9 @@ background: linear-gradient(to left, #3f10e8, #7a7774);
 color: #FFF;
 height: 3em;
 padding: 1em;
+
+border: 15px;
+
 }
 
 .menu {
