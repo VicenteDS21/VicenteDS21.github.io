@@ -13,13 +13,12 @@ body{
 
 
 article h2 {
-  display: inline-block;
-  background-color: #3f10e8;
+  background: linear-gradient(to right, #3f10e8, #7a7774);
   color: white;
-  border-radius: 5px;
+  border-radius: 10px;
+  display: inline-block;
   padding: 5px 10px;
 }
-
 
 /* original starts under here*/
 
