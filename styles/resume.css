@@ -145,12 +145,16 @@ article p{
 font-size: 1em;
 }
 
+
+
 article img{
 margin: auto;
 display: block;
-width: 50%;
-max-width: 380px;
+width: 25%;
+max-width: 190px;
 }
+
+
 
 footer{
 border-top: 2px solid #3f10e8;
@@ -158,8 +162,6 @@ text-align: center;
 font-size: .8em;
 color: white;
 }
-
-
 
 
 @media only screen and (max-width: 700px)
