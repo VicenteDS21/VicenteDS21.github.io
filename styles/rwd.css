@@ -175,8 +175,9 @@ font-size: 1em;
 article img{
 margin: auto;
 display: block;
-width: 50%;
-max-width: 380px;
+width: 37.5%;
+max-width: 285px;
+border-radius: 10px;
 }
 
 footer{
