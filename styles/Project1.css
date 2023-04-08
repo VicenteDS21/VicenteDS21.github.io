@@ -1,15 +1,20 @@
-article h3 a {
-  color: red;
+article h3 {
+  color: white;
 }
-
-
 
 body{
   background-color: #222121;
 }
 
-
-
+article h2 {
+  background: linear-gradient(to left, #3f10e8, #7a7774);
+  color: white;
+  display: inline-block;
+  padding: 2.5px 5px;
+  border-radius: 5px;
+  margin-top: 3px;
+  margin-left: 5px;
+}
 
 /* original starts under here*/
 
@@ -21,7 +26,7 @@ font-size: 100%;
 }
 
 *{
-font-family: Roboto, Arial, Helvetica, sans-serif, verdana;
+font-family: Playfair Display, Arial, Helvetica, sans-serif, verdana;
 box-sizing: border-box;
 }
 
@@ -44,6 +49,10 @@ background: linear-gradient(to left, #3f10e8, #7a7774);
 color: #FFF;
 height: 3em;
 padding: 1em;
+
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+
 }
 
 .menu {
@@ -111,14 +120,6 @@ transform: rotate(-405deg);
 }
     /*----end of menu*/
 
-
-
-
-
-
-
-
-
 section a{
 text-decoration: none;
 color: white;
@@ -142,13 +143,6 @@ font-size: 1.25em;
 
 article p{
 font-size: 1em;
-}
-
-article img{
-margin: auto;
-display: block;
-width: 50%;
-max-width: 380px;
 }
 
 footer{
@@ -216,8 +210,3 @@ font-size: .6em;
 }
 }
 
-
-
-
-
-/* original code above*/
