@@ -1,3 +1,11 @@
+article h3 img{
+  margin: auto;
+  display: inline;
+  width: 4%;
+  max-width: 190px;
+}
+
+
 article h3 {
   color: white;
 }
