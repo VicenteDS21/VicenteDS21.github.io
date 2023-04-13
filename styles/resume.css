@@ -2,7 +2,7 @@ article h3 img{
   margin: auto;
   display: inline;
   width: 2%;
-  max-width: 50px;
+  max-width: 100px;
 }
 
 
@@ -159,7 +159,7 @@ article img{
 margin: auto;
 display: block;
 width: 25%;
-max-width: 190px;
+max-width: 380px;
 }
 
 
